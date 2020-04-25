@@ -1,0 +1,6 @@
+C:\Users\Artur\source\repos\MouseController\MouseController\obj\Debug\MouseController.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\MouseController\MouseController\bin\Debug\MouseController.exe.config
+C:\Users\Artur\source\repos\MouseController\MouseController\bin\Debug\MouseController.exe
+C:\Users\Artur\source\repos\MouseController\MouseController\bin\Debug\MouseController.pdb
+C:\Users\Artur\source\repos\MouseController\MouseController\obj\Debug\MouseController.exe
+C:\Users\Artur\source\repos\MouseController\MouseController\obj\Debug\MouseController.pdb
